@@ -39,7 +39,7 @@ function ProductDisplay(props) {
             </div>
             <div className='productdisplay-right-size'>
                 <h1>Select Size</h1>
-                <div className='productdisplay-right-size'>
+                <div className='productdisplay-right-sizes'>
                     <div>S</div>
                     <div>M</div>
                     <div>L</div>
@@ -48,8 +48,8 @@ function ProductDisplay(props) {
                 </div>
             </div>
             <button>ADD TO CART</button>
-            <p className='productdisplay-right-category'><span>Category :</span>Women, T-shirt, Crop Top</p>
-            <p className='productdisplay-right-category'><span>Tags :</span>Modern, Latest</p>
+            <p className='productdisplay-right-category'><span>Category : </span>Women, T-shirt, Crop Top</p>
+            <p className='productdisplay-right-category'><span>Tags : </span>Modern, Latest</p>
 
         </div>
     </div>
