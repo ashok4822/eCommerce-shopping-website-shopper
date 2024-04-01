@@ -1,0 +1,65 @@
+[33mcommit 2d0b57c864464bb76cb293a9a97138f69f6a1226[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: ashok4822 <4822ashok@gmail.com>
+Date:   Sun Mar 31 13:49:43 2024 +0530
+
+    cartitems style pending 45045
+
+[33mcommit 496d2da4e4428fff2adb7ef88cccd41d23d0d2e0[m
+Author: ashok4822 <4822ashok@gmail.com>
+Date:   Fri Mar 29 23:44:12 2024 +0530
+
+    media query of navbar for 800px completed 31550
+
+[33mcommit 7fba0ac464c138f3f381970719a74c7b5124ac3e[m
+Author: ashok4822 <4822ashok@gmail.com>
+Date:   Fri Mar 29 16:35:49 2024 +0530
+
+    cart design complete 25125
+
+[33mcommit b2f9a02a6e24673a822ed36d4bd2ed220812cfb1[m
+Author: ashok4822 <4822ashok@gmail.com>
+Date:   Fri Mar 29 13:33:25 2024 +0530
+
+    cart pending 22503
+
+[33mcommit e68a11fda7490ccc46e6f1aef4c93163cb359932[m
+Author: ashok4822 <4822ashok@gmail.com>
+Date:   Thu Mar 28 16:17:50 2024 +0530
+
+    product display css pending 20645
+
+[33mcommit 128fbcb10d26c51336d82b8a9379be124b1aad1b[m
+Author: ashok4822 <4822ashok@gmail.com>
+Date:   Thu Mar 28 15:44:19 2024 +0530
+
+    product display pending 20358
+
+[33mcommit 93669b218e89fae3f2b37e62cd5cae3fa5d48d18[m
+Author: ashok4822 <4822ashok@gmail.com>
+Date:   Wed Mar 27 13:33:33 2024 +0530
+
+    footer added 12256
+
+[33mcommit 1ef71e2c4fb8fae66a94d4e565fea1b40831eeb2[m
+Author: ashok4822 <4822ashok@gmail.com>
+Date:   Tue Mar 26 16:43:20 2024 +0530
+
+    navbar 3213
+
+[33mcommit b5ccc1214e60a11f6e1e131529b4533737640433[m
+Author: ashok4822 <4822ashok@gmail.com>
+Date:   Tue Mar 26 13:06:28 2024 +0530
+
+    assets added
+
+[33mcommit 2d8106e7bdd77c07713c120563d0e13751aff9aa[m
+Author: ashok4822 <4822ashok@gmail.com>
+Date:   Tue Mar 26 12:28:36 2024 +0530
+
+    initial commit
+
+[33mcommit 341dd0ece93b6f413522665ac170673b02a129c6[m
+Author: ashok4822 <4822ashok@gmail.com>
+Date:   Tue Mar 26 12:24:22 2024 +0530
+
+    Initialize project using Create React App
